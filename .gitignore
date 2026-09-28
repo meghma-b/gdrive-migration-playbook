@@ -1,0 +1,8 @@
+# Run outputs contain real file names and Drive IDs - keep them out of the repo.
+work/
+*.csv
+*.log
+todo.txt
+__pycache__/
+# rclone config holds OAuth tokens
+rclone.conf
